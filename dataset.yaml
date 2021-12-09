@@ -9,4 +9,4 @@ val: /content/drive/MyDrive/facemaskDetectionYOLOv5/facedata/val/images # val im
 
 # Classes
 nc: 2  # number of classes
-names: [ 'mask', 'nomask']  # class names
+names: [ 'Mask', 'NoMask']  # class names
