@@ -11,8 +11,11 @@
 
 ## 🌟 **Results**
 <p align="center">
-    <img src="./results/hasil1.png" style="width:50%" />
-    <img src="./results/hasil10.png" style="width:50%" />
+    <img src="./results/hasil14.jpg" style="width:50%" />
+    <img src="./results/hasi5.png" style="width:50%" />
+    <img src="./results/hasil6.png" style="width:50%" />
+    <img src="./results/hasil8.png" style="width:50%" />
+    <img src="./results/hasil9.png" style="width:50%" />
 </p>
 
 ## 🌟 **Experiments**
