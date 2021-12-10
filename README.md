@@ -41,4 +41,4 @@
 - https://github.com/ultralytics/yolov5/wiki/Tips-for-Best-Training-Results
 - https://github.com/ultralytics/yolov5/issues/4975
 - https://www.kaggle.com/deepakat002/face-mask-detection-yolov5
-- roboflow.com
+- https://roboflow.com
