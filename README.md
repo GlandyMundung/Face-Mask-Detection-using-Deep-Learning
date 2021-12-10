@@ -26,13 +26,14 @@
 **I trained yolov5m model for 50 epochs due to high computational expenses.**
 ### **Train Batch 1** 
 <p>
-    <img src=".experiments/trainbatch1.jfif" style="width:50%" />
+    <img src="./experiments/trainbatch1.jfif" style="width:50%" />
 </p>
+
 ### **Metrics and Losses**
 <p align="center">
-    <img src=".experiments/metrics and losses.png" style="width:100%" />
-    <img src=".experiments/Recall.png" style="width:50%" />
-    <img src=".experiments/Precision.png" style="width:50%" />
+    <img src="./experiments/metrics and losses.png" style="width:100%" />
+    <img src="./experiments/Recall.png" style="width:50%" />
+    <img src="./experiments/Precision.png" style="width:50%" />
 </p>
 
 # 📙 **References**
