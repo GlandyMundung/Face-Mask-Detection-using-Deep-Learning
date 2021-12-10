@@ -6,11 +6,11 @@
 - **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
 
 
-## 🌟 **Train YOLOv5 models** 
+## 🔦 **Train YOLOv5 models** 
 - **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
 
-## 🌟 **Results**
-<p >
+## 🔦 **Results**
+<p>
     <img src="./results/hasil14.jpg" style="width:50%" />
     <img src="./results/hasil5.png" style="width:50%" />
     <img src="./results/hasil6.png" style="width:50%" />
@@ -18,25 +18,21 @@
     <img src="./results/hasil9.png" style="width:50%" />
 </p>
 
-## 🌟 **Experiments**
-**Full experiment details on** <a href="https://wandb.ai/lannguyen/face-mask-yolov5"><img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg" alt="WandB"></a>
-    
+## 🔦 **Experiments**
+**Full experiment details on** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
+
 <br>
 
-**I personally train [yolov5s, yolov5m] models for 50 epochs, [yolov5l] model for 30 epochs [yolov5x] model for 10 epochs due to high computational expenses.**
-    
-### **Metrics**
-<p align="center">
-    <img src="./assets/experiments/metrics_all.PNG" style="width:50%" />
-    <img src="./assets/experiments/mAP_0.5.PNG" style="width:100%" />
-    <img src="./assets/experiments/mAP_0.5_0.95.PNG" style="width:100%" />
+**I trained yolov5m model for 50 epochs due to high computational expenses.**
+### **Train Batch 1** 
+<p>
+    <img src=".experiments/trainbatch1.jfif" style="width:50%" />
 </p>
-
-### **Losses**
-
+### **Metrics and Losses**
 <p align="center">
-    <img src="./assets/experiments/train_loss.PNG" style="width:100%" />
-    <img src="./assets/experiments/val_loss.PNG" style="width:100%" />
+    <img src=".experiments/metrics and losses.png" style="width:100%" />
+    <img src=".experiments/Recall.png" style="width:50%" />
+    <img src=".experiments/Precision.png" style="width:50%" />
 </p>
 
 # 📙 **References**
