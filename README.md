@@ -10,7 +10,7 @@
 - **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
 
 ## 🌟 **Results**
-<p align="center">
+<p >
     <img src="./results/hasil14.jpg" style="width:50%" />
     <img src="./results/hasil5.png" style="width:50%" />
     <img src="./results/hasil6.png" style="width:50%" />
