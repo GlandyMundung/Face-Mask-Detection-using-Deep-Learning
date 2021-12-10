@@ -30,7 +30,7 @@
 </p>
 
 ### **Metrics and Losses**
-<p align="center">
+<p>
     <img src="./experiments/metrics and losses.png" style="width:100%" />
     <img src="./experiments/Recall.png" style="width:50%" />
     <img src="./experiments/Precision.png" style="width:50%" />
