@@ -3,11 +3,11 @@
 <br>
 
 ## 🔦 **Inference on Google Colab (Recommend)**
-- **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
+- **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
 
 
 ## 🌟 **Train YOLOv5 models** 
-- **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
+- **Open notebook and follow the instructions** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mb0XlW5EV947X0RJysOVbrqB4LLL0iQY?usp=sharing)
 
 ## 🌟 **Results**
 <p align="center">
